@@ -36,6 +36,7 @@ dicflix/
 ## 📝 Mas documentacion
 
 - 🔠[Codigo -> Vesion 1](version01.md)
+- 🔠[Codigo -> Vesion 2](version02.md)
 
 ---
 
